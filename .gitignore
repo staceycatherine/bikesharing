@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+tripdata.csv
 
 # C extensions
 *.so
